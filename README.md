@@ -1,2 +1,2 @@
 # Projects
-Please go to the 'Projects' branch to review my projects.
+Please select the appropriate branch to review a project.
